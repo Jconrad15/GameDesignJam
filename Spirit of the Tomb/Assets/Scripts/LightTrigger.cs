@@ -9,7 +9,6 @@ public class LightTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Enter");
         if (other.gameObject.CompareTag("MainCamera"))
         {
             lights.SetActive(true);
