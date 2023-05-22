@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Global Volume Profile
+  m_Name: Shot 1J
   m_EditorClassIdentifier: 
   components:
   - {fileID: 207799367092234339}
@@ -143,13 +143,13 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.85291773, y: 0.8792259, z: 1, w: 0}
+    m_Value: {x: 1, y: 0.7882997, z: 0.99978435, w: 0}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.8509919, z: 0.8450775, w: 0}
+    m_Value: {x: 0.8690056, y: 1, z: 0.8187746, w: 0}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.8978142, z: 0.8213699, w: 0}
+    m_Value: {x: 0.6081308, y: 1, z: 0.75708246, w: 0}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
