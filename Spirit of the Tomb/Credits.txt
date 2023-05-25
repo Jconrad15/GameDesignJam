@@ -1,0 +1,67 @@
+Ancient Ruins
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/props/exterior/ancient-ruins-and-plants-201914
+
+Basic Motion
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/animations/basic-motions-157744
+
+Desert_Village_LowPoly_HDRP
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/desert-village-houses-lowpoly-200247
+
+Free Low Poly Desert Pack
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/free-low-poly-desert-pack-106709
+
+LavaPlant
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/fantasy/free-low-poly-lava-plants-145043
+
+LowPoly Environement Pack
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+
+LowPolyDungeonsLite
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeons-lite-177937
+
+Military_Truck
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/vehicles/land/military-truck-pbr-41450
+
+Modular Ancient Alien Pillars Free
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/fantasy/modular-ancient-alien-pillars-free-9831
+
+Obelisk_Void
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/fantasy/obelisk-void-221348
+
+PolyGon Dungeon
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/dungeons/polygon-dungeons-low-poly-3d-art-by-synty-102677
+
+Runemark Studio
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+
+Scie_Fi_Character_08
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/sci-fi-character-08-renegade-208640
+
+SciFi HandLight Free
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/props/scifi-handlight-free-hq-lowpoly-pbr-53498
+
+SineVFX
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crystals-106274
+
+SkySeries Freebie
+Standard Unity Asset Store EULA
+https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+"The Escalation" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
